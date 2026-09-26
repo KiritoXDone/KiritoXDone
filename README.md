@@ -1,4 +1,6 @@
 # KiritoXDone
 
-![GitHub Stats (dark)](https://github-readme-stats-one-bice.vercel.app/api?username=KiritoXDone&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)
-![GitHub Stats (light)](https://github-readme-stats-one-bice.vercel.app/api?username=KiritoXDone&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=KiritoXDone&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dark">
+  <img alt="KiritoXDone GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=KiritoXDone&amp;show_icons=true&amp;include_all_commits=true&amp;theme=default">
+</picture>
