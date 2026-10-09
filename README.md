@@ -10,3 +10,7 @@
   <img alt="KiritoXDone Top Languages" src="https://github-stats-extended-backend-sigma.vercel.app/api/top-langs/?username=KiritoXDone&amp;layout=compact&amp;theme=light_github&amp;hide_border=false">
 </picture>
 </p>
+
+<p align="center">
+  <a href="https://afdian.com/a/KiritoXD">☕ 在爱发电支持我</a>
+</p>
